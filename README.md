@@ -58,7 +58,7 @@ _Pranati:_ I learned how to use new tech such as React, new concepts such API ca
 
 _Simi:_ I learned how APIs work, basic html, and how React modularizes code. Also learned the value of hackathons as this was my first
 
-#What's next for Balance Pad
+# What's next for Balance Pad
 _Visualizing Music:_  Our group hopes to integrate BeatCaps software to our page in the future. This would allow a more interactive music experience for users and also allow hearing impaired individuals to experience music
 _Real Time Transcription:_ Our group hopes to implement in real time transcription in the Class Pad to make it even easier for students. 
 

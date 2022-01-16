@@ -89,7 +89,7 @@ _Real Time Transcription:_ Our group hopes to implement in real time transcripti
         <a href="https://github.com/SimiJay">
             <img src="https://avatars.githubusercontent.com/u/75226420?v=4" width="100;" alt="belikeamitesh"/>
             <br />
-            <sub><b>Simi Jaya</b></sub>
+            <sub><b>Simi Jay</b></sub>
         </a>
     </td></tr>
 </table>

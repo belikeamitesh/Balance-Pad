@@ -10,8 +10,8 @@ https://affectionate-roentgen-40f333.netlify.app/
 
 ## Winning Project
 
-Won Deltahacks8 - Best use of Twilio
-
+Won DeltaHacks8 - Best use of Twilio
+DeltaHacks : https://www.deltahacks.com/
 Link for the project : https://devpost.com/software/balance-pad-5yzwg7
 
 # What it does

@@ -10,14 +10,14 @@ https://affectionate-roentgen-40f333.netlify.app/
 
 ## Winning Project
 
-Won DeltaHacks8 - Best use of Twilio
-DeltaHacks : https://www.deltahacks.com/
-Link for the project : https://devpost.com/software/balance-pad-5yzwg7
+`Won DeltaHacks8 - Best use of Twilio`
+* DeltaHacks : https://www.deltahacks.com/
+* Link for the project : https://devpost.com/software/balance-pad-5yzwg7
 
 # What it does
 Balance Pad is a web-based application that gives users access to **several resources** relating to mental health, education, and productivity. Its initial landing page is a dashboard tying everything together to make a clear and cohesive user experience. 
 
-###Professional Help
+### Professional Help
 > 1. _Chat Pad:_ The first subpage of the application has a built in _Chatbot_ offering direct access to a **mental heath professional** for instant messaging.
 
 ### Productivity
